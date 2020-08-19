@@ -8,7 +8,7 @@ namespace TistouUnity
 {
     namespace ControlsForPrototypingPack
     {
-        public class Controls : MonoBehaviour
+        public class SpaceGameControlsV1 : MonoBehaviour
         {
             public readonly Dictionary<int, string> ControlContextDic = new Dictionary<int, string>
             {
